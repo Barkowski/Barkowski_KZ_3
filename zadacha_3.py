@@ -100,5 +100,3 @@ gardener = Garden('Rosty', great_tomato_bush)
 gardener.work()
 gardener.harvest()
 gardener.work()
-
-
